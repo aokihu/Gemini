@@ -1,0 +1,17 @@
+{
+  "name": "gemini",
+  "description": "A ERP API beckend based Node.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "aokihu <aokihu@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev":"node build/index.js"
+  },
+  "dependencies": {
+    "koa": "^2.5.2"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.0.46"
+  }
+}
